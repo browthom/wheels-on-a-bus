@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/browt/Documents/EE-CE Materials/VHDL Projects/VHDL Custom Module Directory/seven_segment_selector.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity seven_segment_selector
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/browt/Documents/EE-CE Materials/VHDL Projects/wheels_on_a_bus/wheels_on_a_bus.srcs/sim_1/new/decode_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity decode_tb
